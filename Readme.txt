@@ -1,1 +1,1 @@
-This is the hacktoberfest Repo.
+This is the hacktoberfest Repositories.
